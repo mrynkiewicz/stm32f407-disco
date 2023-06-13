@@ -1,0 +1,9 @@
+led.c:17:6:Init_LEDs	4	static
+led.c:38:6:GreenLED_On	4	static
+led.c:43:6:GreenLED_Off	4	static
+led.c:49:6:OrangeLED_On	4	static
+led.c:54:6:OrangeLED_Off	4	static
+led.c:59:6:RedLED_On	4	static
+led.c:64:6:RedLED_Off	4	static
+led.c:69:6:BlueLED_On	4	static
+led.c:74:6:BlueLED_Off	4	static
